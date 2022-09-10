@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @RedsXi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😙 I have another account @JackyChicken
-<!---
-RedsXi/RedsXi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL--
+Hey, i am RedsXi, the creator of Easychat
+I am a student and i play some games. I like programming too.
+
+
+
+# Information
+Age: 13(14 later)
+Birth: 2008/10/01
